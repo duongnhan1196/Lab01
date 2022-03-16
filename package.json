@@ -1,0 +1,24 @@
+{
+  "name": "git_test",
+  "version": "1.0.0",
+  "description": "Lite-server test",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duongnhan1196/Lab01.git"
+  },
+  "author": "Duong Nhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duongnhan1196/Lab01/issues"
+  },
+  "homepage": "https://github.com/duongnhan1196/Lab01#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
